@@ -1,0 +1,24 @@
+# Titulo 1
+## Titulo 2
+### Titulo 3
+
+*Cursiva* o _texto en cursiva_
+**Negrita** __Esto tambien__
+~~texto tachado~~
+
+Listas desordenadas
+* Item de lista desordenada
++ Item de lista desordenada
+- Item de listad desordenada
+
+Listas ordenadas
+1. Este es un elemnto de lista ordenada
+2. Otro elemento de lista ordenada
+
+Enlaces
+[Texto del enlace](http://www.google.es) 
+
+Imagenes
+![Texto alternativo](url de la imagen)
+
+
