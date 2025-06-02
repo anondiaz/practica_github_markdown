@@ -1,1 +1,3 @@
 Escribo en fichero uno desde mi equipo
+Edito el fichero 2 desde GitHub
+
